@@ -1,4 +1,4 @@
-# Snort
+# Snort soc level 1 Network Security and Traffic Analysis
 Snort is a tool  to detect real-time threats, analyse recorded traffic files and identify anomalies.
 
 
